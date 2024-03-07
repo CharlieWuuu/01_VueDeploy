@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_deploy"]=self["webpackChunkvue_deploy"]||[]).push([[283],{4283:function(u,e,n){n.r(e),n.d(e,{default:function(){return h}});var l=n(6768);const t=(0,l.Lk)("h1",null,"在 Git 上部屬 Vue",-1),r=(0,l.Lk)("p",null,"最後記得，要在git bash這個終端機使用sh deploy.sh指令。",-1);function s(u,e){return(0,l.uX)(),(0,l.CE)(l.FK,null,[t,r],64)}var c=n(1241);const o={},a=(0,c.A)(o,[["render",s]]);var h=a}}]);
+//# sourceMappingURL=283.50817767.js.map

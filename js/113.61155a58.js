@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_deploy"]=self["webpackChunkvue_deploy"]||[]).push([[113],{113:function(u,n,e){e.r(n),e.d(n,{default:function(){return f}});var r=e(6768);const t=(0,r.Lk)("h1",null,"在 Vue 用 Chart.js",-1),l=(0,r.Lk)("p",null,"使用方法與 Chart.js 相似",-1);function s(u,n){return(0,r.uX)(),(0,r.CE)(r.FK,null,[t,l],64)}var a=e(1241);const c={},o=(0,a.A)(c,[["render",s]]);var f=o}}]);
+//# sourceMappingURL=113.61155a58.js.map

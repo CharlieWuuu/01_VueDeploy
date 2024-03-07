@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_deploy"]=self["webpackChunkvue_deploy"]||[]).push([[550],{6550:function(u,n,e){e.r(n),e.d(n,{default:function(){return f}});var l=e(6768);const r=(0,l.Lk)("h1",null,"Vue 路由",-1),t=(0,l.Lk)("p",null,"在非首頁時重新整理，路由會錯誤，怎麼辦？",-1);function c(u,n){return(0,l.uX)(),(0,l.CE)(l.FK,null,[r,t],64)}var o=e(1241);const s={},a=(0,o.A)(s,[["render",c]]);var f=a}}]);
+//# sourceMappingURL=550.ee09e975.js.map
